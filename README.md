@@ -1,9 +1,15 @@
 # goldenAppleScrap
 :/
 
+Python 3.12.7
+
 ### Start 
 
- *1.Cоздать файл products.jsonl обязательно в корне проекта, рядом c requirements.txt*
+* `PAGE_FROM_CATEGORY` - максимальное число страниц с каждой категории (по 24 продукта на каждой странице).
+
+* `CITY_ID` - id города.
+
+* `URLS` - список url'ов категорий.
 
 ```bash
 python3 -m venv venv
