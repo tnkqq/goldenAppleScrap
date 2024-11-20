@@ -14,6 +14,10 @@ source venv/bin/activate
 ```
 
 ```bash
+pip install -r rquirements.txt
+```
+
+```bash
 python3 src/scrap.py
 ```
 ---
